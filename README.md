@@ -1,12 +1,13 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Web-based application
 
-> This is a web-based application that allows you to create, edit, and delete notes.
+> This is a web-based application that allows a customer to view and manage their products and orders.
+
+![aweb-dev](https://user-images.githubusercontent.com/75126481/150657182-393f37dc-dd46-4430-8a89-2655fa106631.png)
 
 # Live demo
 
-[Live Demo](https://hiromataba.github.io/Leaderboard/dist/)
+[Live Demo](https://hiromataba.github.io/dev-web/)
 
 
 ## Built With
@@ -36,6 +37,10 @@ To get a local copy up and running follow these simple example steps.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+## Acknowledgments
+
+- Helpjuice
 
 ## Show your support
 
