@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 2. In your terminal run:
 - `git clone git@github.com:hiromataba/dev-web.git` 
 3. open the project in your code editor 
-5. Run the live server or simply open index.html in dist folder with your browser.
+5. Run the live server or simply open index.html your browser.
 
 ## Author
 
